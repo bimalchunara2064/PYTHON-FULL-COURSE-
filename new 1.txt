@@ -1,0 +1,12 @@
+Task3:
+Rest API URL: https://dummyjson.com/users
+Method Type:  GET
+Access Type:  Public 
+Req Fields :  None
+
+invoke rest api and analyze user data
+and collect uid,uname,age 
+and write/load into new csv file ie users.csv
+
+
+you ask to sir  whatapp group add

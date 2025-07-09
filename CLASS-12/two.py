@@ -1,0 +1,5 @@
+fp =open('bimal.tet','w')
+default=fp.read()
+print(data)
+print("Bimal Chunara")
+fp.close()

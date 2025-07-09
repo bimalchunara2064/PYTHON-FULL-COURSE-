@@ -1,0 +1,6 @@
+print('Bimal Chunara')
+print(10+20)
+print(50-10)
+print(60*10)
+print(10/5)
+print(50%3)
